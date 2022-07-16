@@ -1,5 +1,4 @@
 # test
-测试静态的vue项目能否在GitHub上实现预览。
 
 ## Project setup
 ```
